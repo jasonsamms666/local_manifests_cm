@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-10.1" />
+<project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-10.1" />
+<project name="CyanogenMod/android_device_samsung_i9100" path="device/samsung/n7000" remote="github" revision="cm-10.1" />
+<project name="CyanogenMod/android_device_samsung_galaxys2-common" path="device/samsung/galaxys2-common" remote="github" revision="cm-10.1" />
+<project name="CyanogenMod/android_kernel_samsung_smdk4210" path="kernel/samsung/smdk4210" remote="github" revision="cm-10.1" />
+<project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-10.1" />
+</manifest>
