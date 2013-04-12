@@ -1,1 +1,1 @@
-local_manifest for cyanogenmod 10.1
+local_manifest files for cyanogenmod 10.1
